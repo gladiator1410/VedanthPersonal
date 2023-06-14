@@ -9,7 +9,7 @@ I am a high school student at Plano West Senior High.
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Robotics:** Inverse Kinematics, Object Recognition, State Machines
 
 ## Hobbies
 
